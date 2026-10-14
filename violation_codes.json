@@ -1,0 +1,345 @@
+{
+ "1": {
+  "code": "1",
+  "title": "Appearance/Algae/Clarity",
+  "official": "Appearance/Algae/Clarity. 64E-9.004(1)(c) & (3); 64E-9.017(1)(c). The pool shall be free from floating debris, sediment, dirt, algae. The main drain shall be visible.",
+  "plain": "Water was cloudy or had debris/algae; main drain must be visible.",
+  "source": "FDOH DH 920 3/2017 Explanation of Code References"
+ },
+ "2": {
+  "code": "2",
+  "title": "Deck/Walkway",
+  "official": "Deck/Walkway. 64E-9.004(3); FBC 454.1.3.1.3; 454.1.7.7; 454.1.8.5. Pool deck areas shall be free from sediment, debris, dirt, standing water, and algae; and refinished as needed to maintain safety/sanitation. Wet decks shall be unobstructed.",
+  "plain": "Pool deck had dirt, debris, standing water or algae, needs cleaning/refinishing, or wet deck was obstructed.",
+  "source": "FDOH DH 920 3/2017 Explanation of Code References"
+ },
+ "3": {
+  "code": "3",
+  "title": "Tile/Pool Finish",
+  "official": "Tile/Pool Finish. 64E-9.004(3); 64E-9.017(1)(h). Pool finish and tile shall be maintained in a safe and sanitary condition.",
+  "plain": "Pool finish or tile not kept in safe, sanitary condition.",
+  "source": "FDOH DH 920 3/2017 Explanation of Code References"
+ },
+ "4": {
+  "code": "4",
+  "title": "Depth Markers",
+  "official": "Depth Markers. FBC 454.1.2.3.1. Minimum 4 inch high, permanent, dark contrasting depth markings must be located on both sides of the pool at the shallow end, slope break, deep point and deep end wall, and every 25 feet. The markers must be installed inside and outside the pool, and have FT and IN abbreviated, or spelled out.",
+  "plain": "Depth markers missing or not meeting the required size, contrast and placement.",
+  "source": "FDOH DH 920 3/2017 Explanation of Code References"
+ },
+ "5": {
+  "code": "5",
+  "title": "Handrail/Ladder",
+  "official": "Handrail/Ladder. FBC 454.1.2.5.1 & .5 Handrails must be provided for all pool steps and must be securely anchored in the pool deck and the bottom step. “Figure Four” handrails must be securely anchored in the pool deck and must extend to above the bottom step. Ladders must be provided and must be securely anchored in the pool deck and must rest against the pool wall with a 3 to 6 inch clearance.",
+  "plain": "Handrails or ladders missing, loose, or not properly anchored/positioned.",
+  "source": "FDOH DH 920 3/2017 Explanation of Code References"
+ },
+ "6": {
+  "code": "6",
+  "title": "Step Markings",
+  "official": "Step Markings. FBC 454.1.2.5.3. All step edges must have a 2 inch contrasting marking on the tread and riser (3/4 inch by 2 inch bullnose tile may be substituted) which shall extend the full length of each step and be slip resistant. Tile used on horizontal surfaces of steps, treads, benches, deck, markers and swimouts must be slip resistant.",
+  "plain": "Step edges lack required 2-inch contrasting, slip-resistant markings, or step/deck tile not slip resistant.",
+  "source": "FDOH DH 920 3/2017 Explanation of Code References"
+ },
+ "7": {
+  "code": "7",
+  "title": "Suction Outlet Covers",
+  "official": "Suction Outlet Covers. Section 514.0315(1), F.S.; 64E-9.008(3)(a) & (10)(c); 64E-9.017(1)(e) & (g). All suction outlet covers/ grates shall be maintained as properly secured, intact, tested, reported to DOH on Verification form DH4157, and in compliance with the national anti-entrapment standard cited in section 514.0315(1), F.S.",
+  "plain": "Suction outlet (drain) covers not secured, intact, tested, reported to DOH (form DH4157), or not meeting the anti-entrapment standard.",
+  "source": "FDOH DH 920 3/2017 Explanation of Code References"
+ },
+ "8": {
+  "code": "8",
+  "title": "Gutter Grates/Skimmer",
+  "official": "Gutter Grates/Skimmer. FBC 454.1.6.5.3.1 & 2. Gutter drains must be covered by a fully intact grate. Skimmers must have a weir in place, deck cover secured in place and the basket must be in place and clean.",
+  "plain": "Gutter grates broken/missing, or skimmer missing weir, lid or clean basket.",
+  "source": "FDOH DH 920 3/2017 Explanation of Code References"
+ },
+ "9": {
+  "code": "9",
+  "title": "Lighting Pool/Area",
+  "official": "Lighting Pool/Area. 64E-9.008(7). Underwater and outside lighting shall be provided for night swimming in accordance with the FBC, or the pool must be closed at night.",
+  "plain": "Underwater/area lighting inadequate for night swimming (or pool not closed at night).",
+  "source": "FDOH DH 920 3/2017 Explanation of Code References"
+ },
+ "10": {
+  "code": "10",
+  "title": "No Diving Markings",
+  "official": "No Diving Markings. FBC 454.1.2.3.1. Areas of the pool which are not part of an approved diving bowl shall have dark contrasting “NO DIVING” markings every 25 feet.",
+  "plain": "Required 'NO DIVING' markings missing.",
+  "source": "FDOH DH 920 3/2017 Explanation of Code References"
+ },
+ "11": {
+  "code": "11",
+  "title": "Diving Board",
+  "official": "Diving Board. FBC 454.1.2.7. Diving boards must be secured and slip resistant. Required guard rails must be intact. Stanchions must be removed if board is removed.",
+  "plain": "Diving board not secure or slip resistant, guard rails not intact, or stanchions left after board removed.",
+  "source": "FDOH DH 920 3/2017 Explanation of Code References"
+ },
+ "12": {
+  "code": "12",
+  "title": "Pool Cover",
+  "official": "Pool Cover. 64E-9.008(5). A floating cover/blanket must be secured, or pool must be inaccessible to bathers. Cover/blanket shall not obstruct wet deck when removed.",
+  "plain": "Pool cover not secured, or obstructs wet deck when removed.",
+  "source": "FDOH DH 920 3/2017 Explanation of Code References"
+ },
+ "13": {
+  "code": "13",
+  "title": "Pool Side Shower",
+  "official": "Pool Side Shower. FBC 454.1.6.2. All outdoor pools must have a rinse shower located on the pool deck within perimeter of the fence. POOL SAFETY",
+  "plain": "Required pool-side rinse shower missing (outdoor pools).",
+  "source": "FDOH DH 920 3/2017 Explanation of Code References"
+ },
+ "14": {
+  "code": "14",
+  "title": "Life Hook with Pole",
+  "official": "Life Hook with Pole. 64E-9.008(3). A shepherd’s hook securely attached to a one piece pole not less than 16 feet long must be provided. The life hook must be fully accessible and visible from the pool. Pools over 50 feet in length must have a shepherd’s hook along each of the longer sides of the pool.",
+  "plain": "Shepherd's hook on 16-ft one-piece pole missing, not accessible/visible, or not on each long side of large pools.",
+  "source": "FDOH DH 920 3/2017 Explanation of Code References"
+ },
+ "15": {
+  "code": "15",
+  "title": "Life Ring with Rope",
+  "official": "Life Ring with Rope. 64E-9.008(3). An 18 inch diameter lifesaving ring with sufficient rope attached to reach all parts of the pool must be provided. The rope must be in good condition. The ring must be fully accessible, visible and not tied down or locked. Pools over 50 feet in length must have a lifesaving ring along each of the longer sides of the pool.",
+  "plain": "18-inch life ring with rope missing, worn, tied down, or not on each long side of large pools.",
+  "source": "FDOH DH 920 3/2017 Explanation of Code References"
+ },
+ "16": {
+  "code": "16",
+  "title": "Safety Line",
+  "official": "Safety Line. 64E-9.008(4); FBC 454.1.2.2.3.2. Pool floors with a slope break must have a safety line mounted 2 feet before the slope break towards the shallow end using cup anchors. The safety line must have visible floats. It may be removed temporarily for lap swimming only while a safety attendant or lifeguard is present.",
+  "plain": "Safety line with floats at the slope break missing or improperly installed.",
+  "source": "FDOH DH 920 3/2017 Explanation of Code References"
+ },
+ "17": {
+  "code": "17",
+  "title": "Rules Posted",
+  "official": "Rules Posted. 64E-9.004(4); 64E-9.008(6) & (13)(f). Signs shall be maintained legible from the pool deck as approved by the jurisdictional building department addressing: bathing load, pool operation time, no-diving, animals, glass, food/beverages, showering, swimming while ill, swallowing pool water, and additionally for spa pools: temperature, spa use time, minimum age, and vulnerable person caution.",
+  "plain": "Required pool rules signs missing or illegible.",
+  "source": "FDOH DH 920 3/2017 Explanation of Code References"
+ },
+ "18": {
+  "code": "18",
+  "title": "Lifeguard/Instructor/Pool Technician Certification",
+  "official": "Lifeguard/Instructor/Pool Technician Certification. 64E-9.008(2); 64E-9.018. If lifeguards or swimming instructors are provided, they must be certified by the American Red Cross, YMCA, or other nationally recognized aquatic training program. Swimming instructors must also be first aid and CPR certified; and swimming instructors of developmentally disabled students must also be certified in accordance with section 514.072, F.S. Proof of a certification is required at the pool site. Unless exempt under section 514.075, F.S., pool service technicians shall be certified under a DOH approved course.",
+  "plain": "Lifeguard, swim instructor or pool service technician certification missing or not proven on site.",
+  "source": "FDOH DH 920 3/2017 Explanation of Code References"
+ },
+ "19": {
+  "code": "19",
+  "title": "Supplies",
+  "official": "Supplies. 64E-10. Sanitary facilities must be furnished with toilet tissue, soap, single use paper towels or automatic hand-drying device, and waste receptacle.",
+  "plain": "Restrooms lacking toilet tissue, soap, paper towels/hand dryer or waste receptacle.",
+  "source": "FDOH DH 920 3/2017 Explanation of Code References"
+ },
+ "20": {
+  "code": "20",
+  "title": "Clean",
+  "official": "Clean. 64E-10. Sanitary facilities and floors shall be maintained in a cleaned and disinfected condition.",
+  "plain": "Restrooms or floors not clean and disinfected.",
+  "source": "FDOH DH 920 3/2017 Explanation of Code References"
+ },
+ "21": {
+  "code": "21",
+  "title": "Approved Test Kit",
+  "official": "Approved Test Kit. 64E-9.004(9). All pools must have an approved test kit on site capable of testing free chlorine (with DPD reagent), combined chlorine, pH, calcium hardness and total alkalinity. Pools utilizing chlorine generators must have a sodium chloride test kit. Pools using quaternary ammonium compounds must have a quaternary ammonium test kit. Pools using chlorine stabilizer must have a cyanuric acid test kit. NSF 50 certified halogen test strips may only be used for an Epsom salt (MgSO4) tank.",
+  "plain": "Approved water test kit missing or incomplete for the chemicals used.",
+  "source": "FDOH DH 920 3/2017 Explanation of Code References"
+ },
+ "22": {
+  "code": "22",
+  "title": "Free Chlorine/Bromine",
+  "official": "Free Chlorine/Bromine. 64E-9.004(1); 64E-9.017(1). Free chlorine level must be between 1-10mg/L (parts per million) in conventional swimming pools, inclusive; or 1½10 ppm bromine. Spa pools & IWFs must maintain 2-10 mg/L free chlorine, or 3-10mg/L bromine. The maximum disinfectant level for indoor conventional swimming pools is 5 mg/L chlorine or 6 mg/L bromine. Pool owner must prohibit pool use when water quality is outside these parameters.",
+  "plain": "Free chlorine/bromine outside required range (pool use must be prohibited until corrected).",
+  "source": "FDOH DH 920 3/2017 Explanation of Code References"
+ },
+ "23": {
+  "code": "23",
+  "title": "pH",
+  "official": "pH. 64E-9.004(1); 64E-9.017(1). The pH in all pools shall be maintained between 7.2 and 7.8, inclusive. Pool owner must prohibit pool use when water quality is outside these parameters.",
+  "plain": "pH outside 7.2-7.8 (pool use must be prohibited until corrected).",
+  "source": "FDOH DH 920 3/2017 Explanation of Code References"
+ },
+ "24": {
+  "code": "24",
+  "title": "Chlorine Stabilizer",
+  "official": "Chlorine Stabilizer. 64E-9.004(1). The concentration of chlorine stabilizer (cyanuric acid) shall not exceed 100 ppm in conventional pools or 40 ppm in spas.",
+  "plain": "Cyanuric acid (stabilizer) too high (over 100 ppm pools, 40 ppm spas).",
+  "source": "FDOH DH 920 3/2017 Explanation of Code References"
+ },
+ "25": {
+  "code": "25",
+  "title": "Spa 104°F, ORP, Oils",
+  "official": "Spa 104°F, ORP, Oils. 64E-9.008(8) & (12). Spa pools have a maximum temperature of 104° F. Spas must have an ORP auto controller to aide in pH and disinfection with water potential between 700 and 850 millivolts, unless spa pool is exempt by age & size. Oils, minerals, and lotions may not be used by patrons.",
+  "plain": "Spa over 104°F, missing required ORP auto controller, or oils/lotions used.",
+  "source": "FDOH DH 920 3/2017 Explanation of Code References"
+ },
+ "26": {
+  "code": "26",
+  "title": "Wading Pool",
+  "official": "Wading Pool: Quick Dump. 64E-9.008(11). All wading pools must have emergency drainage capabilities.",
+  "plain": "Wading pool lacks emergency (quick dump) drainage.",
+  "source": "FDOH DH 920 3/2017 Explanation of Code References"
+ },
+ "27": {
+  "code": "27",
+  "title": "Water Level/Control",
+  "official": "Water Level/Control. 64E-9.004(6); FBC 454.1.6.5.11. The pool water level shall be maintained for continuous skimming flow during periods of non-use. A manual and automatic fill device shall be provided and shall discharge into the collector tank.",
+  "plain": "Water level too low for continuous skimming, or manual/automatic fill device missing.",
+  "source": "FDOH DH 920 3/2017 Explanation of Code References"
+ },
+ "28": {
+  "code": "28",
+  "title": "Disinfection Feeder",
+  "official": "Disinfection Feeder. 64E-9.008(10)(e); 64E-9.017(1). A properly sized disinfection feeder and/or generator shall be provided. Electrical pumps must be electrically interlocked with the recirculation pump. Feeders/generators must be certified under NSF/ANSI 50.",
+  "plain": "Disinfection feeder/generator missing, undersized, not interlocked with the pump, or not NSF/ANSI 50 certified.",
+  "source": "FDOH DH 920 3/2017 Explanation of Code References"
+ },
+ "29": {
+  "code": "29",
+  "title": "pH Feeder",
+  "official": "pH Feeder. 64E-9.008(10)(e); 64E-9.017(1). pH adjustment feeders must be provided on all pools, and must be electrically interlocked with the recirculation pump.",
+  "plain": "pH feeder missing or not interlocked with the recirculation pump.",
+  "source": "FDOH DH 920 3/2017 Explanation of Code References"
+ },
+ "30": {
+  "code": "30",
+  "title": "Chemical Container/Labeled",
+  "official": "Chemical Container/Labeled. FBC 454.1.6.5.16.2 & .3. Solution reservoirs shall have at least 50 percent storage capacity of the solution pump and shall be labeled.",
+  "plain": "Chemical solution reservoir too small or not labeled.",
+  "source": "FDOH DH 920 3/2017 Explanation of Code References"
+ },
+ "31": {
+  "code": "31",
+  "title": "Filter / Pump",
+  "official": "Filter / Pump. 64E-9.004(5) & .008(10). The filter & pump shall be properly sized and operable, at the design flow rate.",
+  "plain": "Filter or pump not properly sized or not operating at design flow.",
+  "source": "FDOH DH 920 3/2017 Explanation of Code References"
+ },
+ "32": {
+  "code": "32",
+  "title": "Vacuum Cleaner",
+  "official": "Vacuum Cleaner. FBC 454.1.6.5.12. All pools shall have a vacuum cleaning system. (Except for spa and wading pools of 200 square feet or less.)",
+  "plain": "Required vacuum cleaning system missing.",
+  "source": "FDOH DH 920 3/2017 Explanation of Code References"
+ },
+ "33": {
+  "code": "33",
+  "title": "Flowmeter",
+  "official": "Flowmeter. 64E-9.008(10)(b); FBC 454.1.6.5.13. All pools shall have a functional flowmeter capable of reading from 1/2 to 1&1/2 the design flow rate.",
+  "plain": "Flowmeter missing or not functional.",
+  "source": "FDOH DH 920 3/2017 Explanation of Code References"
+ },
+ "34": {
+  "code": "34",
+  "title": "Thermometer",
+  "official": "Thermometer. 64E-9.008(8); FBC 454.1.6.5.14. Pools equipped with a heater must have a functional in-line thermometer mounted downstream of the heater outlet.",
+  "plain": "Heated pool lacks functional in-line thermometer after the heater.",
+  "source": "FDOH DH 920 3/2017 Explanation of Code References"
+ },
+ "35": {
+  "code": "35",
+  "title": "Pressure/Vacuum Gauges",
+  "official": "Pressure/Vacuum Gauges. 64E-9.008(10)(d). All vacuum filter systems shall have a functional vacuum gauge before the pump. All pressure filter systems shall have a functional pressure gauge mounted before and after the filter.",
+  "plain": "Required vacuum/pressure gauge missing or not functional.",
+  "source": "FDOH DH 920 3/2017 Explanation of Code References"
+ },
+ "36": {
+  "code": "36",
+  "title": "Equipment Room Drainage/Vent/Lighting/Clean",
+  "official": "Equipment Room Drainage/Vent/Lighting/Clean. 64E-9.008(10) & (13);FBC454.1.5.1-.9. Equipment room shall: have Drainage, ventilation, lighting and be clutter free.",
+  "plain": "Equipment room lacks drainage, ventilation or lighting, or is cluttered.",
+  "source": "FDOH DH 920 3/2017 Explanation of Code References"
+ },
+ "37": {
+  "code": "37",
+  "title": "Cross Connection",
+  "official": "Cross Connection. 64E-9.004(l)(a). An air gap must be provided in the fill line and in the waste line. Vacuum breakers shall be provided on all hose bibbs in the sanitary facilities, pool area and equipment room area.",
+  "plain": "Cross-connection: missing air gap on fill/waste lines or vacuum breakers on hose bibbs.",
+  "source": "FDOH DH 920 3/2017 Explanation of Code References"
+ },
+ "38": {
+  "code": "38",
+  "title": "Gas Chlorine",
+  "official": "Gas Chlorine: Room/Area. FBC 454.1.6.5.16.1. Pools that utilize gas chlorine must: have a locked chlorine room, continuous forced draft ventilation exhausting at floor level to outside, 30 foot-candles illumination with switch outside the room, scales to weigh the cylinders with all cylinders chained. Area shall have roof and 6 foot chain fence.",
+  "plain": "Gas chlorine room/area not meeting locking, ventilation and safety requirements.",
+  "source": "FDOH DH 920 3/2017 Explanation of Code References"
+ },
+ "39": {
+  "code": "39",
+  "title": "Waste Water Disposal",
+  "official": "Waste Water Disposal. FBC 454.1.6.5.15. Waste water must discharge through an air gap and be disposed of in accordance with local requirements.",
+  "plain": "Waste water not discharged through an air gap or not disposed of per local rules.",
+  "source": "FDOH DH 920 3/2017 Explanation of Code References"
+ },
+ "40": {
+  "code": "40",
+  "title": "D.E",
+  "official": "D.E. Separator. FBC 454.1.6.5.5.15. Pools with D.E. filters shall be equipped with D.E. separation devices. (Tanks with air bleed/isolation valves and bottom drains)",
+  "plain": "D.E. filter lacks required D.E. separation device.",
+  "source": "FDOH DH 920 3/2017 Explanation of Code References"
+ },
+ "41": {
+  "code": "41",
+  "title": "Other Equipment",
+  "official": "Other Equipment. 64E-9.008(10). Auxiliary equipment must not interfere with the attainment of the design flow, i.e. ionizers, UV, ozone generators, heaters, etc.",
+  "plain": "Auxiliary equipment (ionizer, UV, ozone, heater, etc.) interferes with design flow.",
+  "source": "FDOH DH 920 3/2017 Explanation of Code References"
+ },
+ "42": {
+  "code": "42",
+  "title": "Equipment Change",
+  "official": "Equipment Change. FBC 454.1.10. All equipment changes must have prior approval from the jurisdictional building department when they have jurisdiction, or the DOH.",
+  "plain": "Equipment changed without prior building department/DOH approval.",
+  "source": "FDOH DH 920 3/2017 Explanation of Code References"
+ },
+ "43": {
+  "code": "43",
+  "title": "Approved Chemicals",
+  "official": "Approved Chemicals. 64E-9.004(1)(d). All chemicals used in public pools must meet NSF Standard 60, Drinking Water Treatment Chemicals-Health Effects.",
+  "plain": "Chemicals used not NSF Standard 60 approved.",
+  "source": "FDOH DH 920 3/2017 Explanation of Code References"
+ },
+ "44": {
+  "code": "44",
+  "title": "Maintenance Log",
+  "official": "Maintenance Log. 64E-9.004(10). Daily record must be kept for pH and disinfectant residual tested each day the pool is open for use, and weekly for Cyanuric Acid.",
+  "plain": "Daily pH/disinfectant log (and weekly cyanuric acid) not kept.",
+  "source": "FDOH DH 920 3/2017 Explanation of Code References"
+ },
+ "45": {
+  "code": "45",
+  "title": "Inspection Posted",
+  "official": "Inspection Posted. 64E-9.004(7). Pools requiring membership or admission fee must post the latest DOH pool inspection report in plain view of existing/potential patrons.",
+  "plain": "Latest DOH inspection report not posted (required for membership/fee pools).",
+  "source": "FDOH DH 920 3/2017 Explanation of Code References"
+ },
+ "46": {
+  "code": "46",
+  "title": "Safety",
+  "official": "Safety-514.0315(2), F.S. 64E-9.008(3)(a) & (10)(c); 64E-9.017(1)(e) & (g). All equipment room anti-entrapment systems shall be installed by a licensed contractor, maintained as functional, tested, reported to DOH on Verification form DH4157, and in compliance with the national anti-entrapment standard cited in section 514.0315(2), F.S. Suction Limiting Vent systems require annual tests; Safety Vacuum Release systems require testing per manufacturer.",
+  "plain": "Equipment-room anti-entrapment system not installed by licensed contractor, not functional, not tested, or not reported to DOH (DH4157).",
+  "source": "FDOH DH 920 3/2017 Explanation of Code References"
+ },
+ "47": {
+  "code": "47",
+  "title": "Fences/Gates",
+  "official": "Fences/Gates: FBC 454.1.3.1.9; 454.1.5.1 & 2. Pools approved after May 2004 code revision shall have a minimum height fence, with no breaches, and with operable selfclosing, self-latching gates. Equipment and chlorine gas area fence/gate shall be secure and locked. Wading and specialty pool fences/gates shall be sustained as installed.",
+  "plain": "Fence or gate breached, too short, not self-closing/latching, or equipment/chlorine area not locked.",
+  "source": "FDOH DH 920 3/2017 Explanation of Code References"
+ },
+ "48": {
+  "code": "48",
+  "title": "Other",
+  "official": "Other. Items so marked violate sections of Chapter 64E-9 or FBC not listed above, and are explained in the comments section.",
+  "plain": "Other violation of Chapter 64E-9 or FBC not listed; details only in inspector comments.",
+  "source": "FDOH DH 920 3/2017 Explanation of Code References"
+ },
+ "49": {
+  "code": "49",
+  "title": "Other",
+  "official": "Other. Items so marked violate sections of Chapter 64E-9 or FBC not listed above, and are explained in the comments section.",
+  "plain": "Other violation of Chapter 64E-9 or FBC not listed; details only in inspector comments.",
+  "source": "FDOH DH 920 3/2017 Explanation of Code References"
+ }
+}
